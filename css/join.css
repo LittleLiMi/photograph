@@ -1,0 +1,51 @@
+#content .leftnav{
+	width:195px;height:1300px;
+	border:1px solid #8ed263;
+	border-bottom: none;
+}
+#content .right .club>a{
+	width:340px;height:25px;
+	background-color: #9c6;
+	display: inline-block;
+	margin-top:22px;
+	color:#fff;
+	line-height: 25px;
+}
+#content .right .club>span{
+	color:#393;
+	display: inline-block;
+	margin-top:10px;
+	font-size:15px;
+}
+#content .right .recruit{margin-top: 40px;}
+#content .right .recruit b{
+	font-size: 15px;
+	color:#333;
+	font-weight: normal;
+}
+#content .right .recruit>div{
+	width:92px;height:26px;
+	color:#fff;
+	margin-top:10px;
+	background-color: #9c6;
+	text-align: center;
+	line-height: 26px;
+	font-size:18px;
+}
+#content .right .recruit>p{
+	width:436px;color:#333;
+	font-size:15px;
+	line-height:26px;
+}
+#content .right .recruit>p span{float: right;}
+#content .right .recruit>div:nth-of-type(2){width:100px;}
+#content .right .recruit>div:nth-of-type(3),
+#content .right .recruit>div:nth-of-type(4),
+#content .right .recruit>div:nth-of-type(5),
+#content .right .recruit>div:nth-of-type(6){width:215px;}
+#content .right .recruit>.desgin{
+	font-size:15px;
+	color:#393;
+	line-height:26px;
+}
+#content .right .recruit>p:nth-of-type(3){width:432px;}

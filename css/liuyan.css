@@ -1,0 +1,35 @@
+#content .leftnav{
+	width:195px;height:820px;
+	border:1px solid #8ed263;
+	border-bottom: none;
+}
+#content .right p#thanks{
+	font-family: "ËÎÌו";
+	font-size:18px;
+	color:#393;
+	float: right;
+	margin-right:123px;
+	margin-top:-130px;
+	font-weight: bold;
+}
+#content .right input.text{
+	width:710px;height:570px;
+	float: right;
+	margin-right:103px;
+	margin-top:-60px;
+	border:none;
+	background-color: #f2fafd;	
+}
+#content .right input.button{
+	float: left;
+	margin-left:400px;
+	margin-top:30px;
+	border:none;
+	width:85px;height:40px;
+	background-color: #9c6;
+	cursor: pointer;
+	color:#fff;
+	font-size:18px;
+}
+
+#content .right input.button2{margin-left:50px;}

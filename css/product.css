@@ -1,0 +1,132 @@
+.center{
+	width:1200px;
+	margin:0 auto;
+}
+#content{
+	width:100%;
+	margin-top: 160px;
+}
+#content .subnav{
+	height:40px;width:100%;
+	border-bottom: 2px solid #efefef;
+}
+#content .subnav li{
+	width:120px;
+	height:32px;
+	color:#666;
+	margin-left: 25px;
+	font-size:20px;
+	line-height: 32px;
+	text-align: center;
+	font-family: "微软雅黑";
+}
+#content .subnav li:first-child{margin-left: 0;}
+#content .subnav li:nth-child(2){background: #c99;}
+#content .harvard{margin-top:20px;}
+#content .harvard li{margin-left:20px;}
+#content .harvard li:first-child{margin-left:0;}
+#content div.harvard{
+	height:20px;width:100%;
+	margin-top:320px;
+	background-color: #c99;
+}
+#content div.harvard .link{
+	line-height: 20px;
+	font-size: 20px;
+	margin-left: 475px;
+	color:#fff;
+}
+#content div.harvard a{font-size:12px;color:#fff;}
+
+#content .flower{margin-top:20px;}
+#content .flower li{margin-left:20px;}
+#content .flower li:first-child{margin-left:0;}
+#content div.flower{
+	height:20px;width:100%;
+	margin-top:320px;
+	background-color: #c99;
+}
+#content div.flower{
+	line-height: 20px;
+	font-size: 20px;
+	text-align: center;
+	color:#fff;
+}
+#content div.flower a{font-size:12px;color:#fff;}
+
+#content .moutain{margin-top:20px;}
+#content .moutain li{margin-left:20px;}
+#content .moutain li:first-child{margin-left:0;}
+#content div.moutain{
+	height:20px;width:100%;
+	margin-top:320px;
+	background-color: #c99;
+}
+#content div.moutain{
+	line-height: 20px;
+	font-size: 20px;
+	text-align: center;
+	color:#fff;
+}
+#content div.moutain a{font-size:12px;color:#fff;}
+
+#content .girl{margin-top:20px;}
+#content .girl li{margin-left:20px;}
+#content .girl li:first-child{margin-left:0;}
+#content div.girl{
+	height:20px;width:100%;
+	margin-top:320px;
+	background-color: #c99;
+}
+#content div.girl{
+	line-height: 20px;
+	font-size: 20px;
+	text-align: center;
+	color:#fff;
+}
+#content div.girl a{font-size:12px;color:#fff;}
+
+#content .pageNumber{
+	margin-top:50px;
+	margin-left: 273px;
+
+}
+#content .pageNumber li{
+	padding:10px 13px;
+	margin-left: 18px;
+	border:1px solid #eaeaea;
+	color:#898989;
+}
+#content .pageNumber li:nth-child(6){
+	background-color: #949494;
+	color:#fff;
+}
+
+#content .visited{
+	margin-top:135px;
+}
+
+#content .visited>span{
+	font-family: "微软雅黑"；
+	font-size:20px;
+	color:#666;
+	font-weight: bold;
+}
+#content .visited ul{
+	margin-top:40px;
+	width:100%;
+	border-top:1px solid #ccc;
+}
+#content .visited ul li{
+	position:relative;
+	padding-top:20px;
+	padding-left: 20px;
+}
+#content .visited ul li:first-child{padding-left:0;}
+.visited ul li>span{
+	position: absolute;
+	bottom:-30px;left:108px;
+	font-size:18px;
+	color:#8c8c8c;
+	font-weight: bold;
+}

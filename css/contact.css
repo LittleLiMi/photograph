@@ -1,0 +1,17 @@
+#content .leftnav{
+	width:195px;height:800px;
+	border:1px solid #8ed263;
+	border-bottom: none;
+}
+#content .right .club>p{
+	margin:0;
+	margin-top: 40px;
+	font-size:15px;
+	color:#333;
+	line-height:26px;
+}
+#content .right .club>p span{
+	font-size:18px;
+	color:#393;
+	line-height: 32px;
+}
